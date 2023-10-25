@@ -16,7 +16,7 @@ li{
 .header-container{
     background-color: white;
     padding: 10px 0 10px 20px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .header-container img, .header-container h1{
@@ -58,7 +58,7 @@ button{
 #blue-button{
     background-color: rgb(65, 151, 248);
     color: white;
-    border: 1px solid rgb(0, 81, 255);
+    border: 1px solid rgb(65, 151, 248);
 }
 
 #grey-button{
@@ -90,12 +90,12 @@ ul{
     
 }
 
-#done{
+.done{
     border-color: green;
     color: green;
 }
 
-#not-done{
+.not-done{
     border-color: red;
     color: red;
 }
